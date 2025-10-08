@@ -1,0 +1,22 @@
+python-dotenv
+
+# Core AI and Orchestration
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+
+# Frontend
+streamlit
+
+# Vision and OCR
+torch
+transformers
+Pillow
+easyocr
+
+# Audio
+SpeechRecognition
+pydub
+ffmpeg-python  # SpeechRecognition might need ffmpeg for some formats
