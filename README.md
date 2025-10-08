@@ -56,4 +56,4 @@ streamlit run app.py
 ---
 ## **Application Flowchart**
 
-![Application Flowchart](flowchart.png)
+![Application Flowchart](image.png)
